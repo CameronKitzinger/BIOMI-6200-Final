@@ -11,3 +11,5 @@
 9. Automatically code with Github's [Copilot](https://github.com/features/copilot) (or ChatGPT lol)
 10. [Stackoverflow](https://stackoverflow.com/) likely has an answer to any question you could have
 11. I am by no means an expert, but feel free to reach out to me via email <cdk56@cornell.edu>
+
+example
